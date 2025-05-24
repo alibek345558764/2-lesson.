@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(75, 111, 182);
+}
+.box{
+    width: 265px;
+    height: 45px;
+    background-color: rgb(68, 71, 73);
+    color: white;
+    margin: 0 auto;
+}
+.big{
+    width: 850px;
+    height: 500px;
+    background-color: black;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid red;
+}
+.mini{
+    width: 800px;
+    height: 200px;
+    background-color: aqua;
+    padding: 50px;
+}
+.kichik{
+    width: 800px;
+    height: 200p    x;
+    background-color: aqua;
+    padding: 50px;
+
+}
